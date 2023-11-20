@@ -15,7 +15,7 @@ export default function Home() {
       {/* Main container for the content */}
       <main className={styles.mainContainer}>
         {/* Heading for the Todo App */}
-        <h1 className="heading">Todo App</h1>
+        <h1 className="heading">Todo App </h1>
         {/* Component to add new todos */}
         <AddTodo />
         {/* Welcome message component */}

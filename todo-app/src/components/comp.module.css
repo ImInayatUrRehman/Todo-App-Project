@@ -1,0 +1,33 @@
+.customStyle {
+  width: 80px;
+}
+.inputTodo {
+  padding: 5px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+.todoItems {
+  /* width: 100%; */
+  margin: 10px 10px;
+  display: grid;
+  grid-template-columns: 266px 170px 95px;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  justify-items: left;
+  margin: 5px;
+}
+.container {
+  width: 80%;
+  align-items: center;
+  background-color: blue;
+}
+.iurStyle {
+  padding: 10px;
+  width: 90%;
+}
+.wcmsg {
+  text-align: center;
+  margin-top: 5px;
+  font-family: "Times New Roman", Times, serif;
+}
